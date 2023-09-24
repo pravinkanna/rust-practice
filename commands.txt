@@ -1,0 +1,5 @@
+New Project - cargo new <project name>
+Build - cargo build
+Run without compile step - cargo run
+Check for issues - cargo check
+Build for release - cargo build --release
